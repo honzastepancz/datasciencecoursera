@@ -1,10 +1,9 @@
 ---
-title: "Assamble toolbox"
+title: "Untitled"
 author: "Jan Stepan"
 date: "4 9 2020"
 output: pdf_document
 ---
-## This is a markdown file
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
